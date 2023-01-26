@@ -1,6 +1,6 @@
 ## Getting Started
 
-Conjunto de exercicios realizadas em agosto de 2022 até dezembro de 2022, na academia Mil Devs.
+Conjunto de exercicios realizados em agosto de 2022 até dezembro de 2022, na academia Mil Devs.
 
 ## Folder Structure
 
