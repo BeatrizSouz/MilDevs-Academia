@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Conjunto de exercicios realizadas em agosto de 2022 até dezembro de 2022, na academia Mil Devs.
 
 ## Folder Structure
 
